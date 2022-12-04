@@ -1,0 +1,17 @@
+{
+    "name": "cenobyte321/random-doc-generator",
+    "description": "Random Document Generator",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cenobyte321",
+            "email": "cenobyte321@clubdoom.com"
+        }
+    ],
+    "require": {
+        "fpdf/fpdf": "^1.85",
+        "ext-zip": "*"
+    }
+}
+
